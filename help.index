@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.hero-image {
+  background-image: url("https://i.imgur.com/gLvUrYF.jpg");
+  height: 25%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+
+<style>
+a:link, a:visited {
+    background-color: lightpink;
+    font-family: courier;
+    color: white;
+    padding: 10px 10px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: lightpink;
+
+</style>
+    <title> kuni souen</title>
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1><font face="courier" size="10" color="white"> kuni souen</font></h1>
+<font face="courier" size="2" color="lightpink"> <i>how long until i see you again?</i></font><br><br>
+
+<center>
+<a style="text-decoration: none;" href="file:///Users/kunesouen/Desktop/webstite/help.html">home.</a>
+<a style="text-decoration: none;" href="https://www.instagram.com/straykuni/" target="_blank">instagram.</a>
+<a style="text-decoration: none;" href="https://www.twitter.com/kunitwt" target="_blank">twitter.</a>
+<a style="text-decoration: none;" href="file:///Users/kunesouen/Desktop/webstite/works">works.</a>
+<a style="text-decoration: none;" href="file:///Users/kunesouen/Desktop/webstite/artist%20statement.html">artist statement.</a></center>
+<br><Br>
+
+  </div>
+</div>
+<br><br>
+
+
+</head>
+
+<body>
+
+</div>
+
+
+<center>
+
+<img src="https://i.imgur.com/kGw4mrX.jpg" alt="wave" style="width:500px;height:300px;" />
+</div>
+</center>
+</div>
+</body>
+</html>
